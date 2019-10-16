@@ -13,6 +13,7 @@ header {
 }
 
 #details {
+  background-color: pink;
   display: flex;
   flex-direction: row;
 }
